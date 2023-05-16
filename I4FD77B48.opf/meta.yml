@@ -1,0 +1,18 @@
+id: I4FD77B48
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:43.291688
+last_modified: 2023-01-04 11:29:43.291702
+source_metadata:
+  collections:
+  - Apang Tertön Series
+  - Works of Tibetan Masters
+bases:
+  77E2:
+    title: A Prayer to Mañjuśrī
+    base_file: 77E2.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
